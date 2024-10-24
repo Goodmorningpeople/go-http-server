@@ -1,5 +1,5 @@
-# Go Example Project
-This project is a Go http server
+# go-http-server 
+This project is a fully functional, utility packed Go http server
 
 Dependencies
 - [chi](https://github.com/go-chi/chi) is used for the router
